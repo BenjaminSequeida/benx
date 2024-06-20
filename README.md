@@ -10,6 +10,6 @@
 ---
 
 ### 🔍 Encuéntrame en:
-[![GitHub](https://img.shields.io/badge/GitHub-555555?style=flat-square&logo=github&logoColor=red)](https://github.com/tuusuario)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-555555?style=flat-square&logo=linkedin&logoColor=red)](https://linkedin.com/in/tuusuario)
-[![Instagram](https://img.shields.io/badge/Instagram-555555?style=flat-square&logo=instagram&logoColor=red)](https://instagram.com/tuusuario)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=red)](https://github.com/tuusuario)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=red)](https://linkedin.com/in/tuusuario)
+[![Instagram](https://img.shields.io/badge/Instagram-000000?style=flat-square&logo=instagram&logoColor=red)](https://instagram.com/tuusuario)
